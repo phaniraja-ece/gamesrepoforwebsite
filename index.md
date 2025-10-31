@@ -11,6 +11,7 @@ title: Games for phaniraja-ece.github.io
 ## 🎮 Games
 
 
-[Games](/games/){: .btn}
+[Games](/gamesrepoforwebsite/games/){: .btn}
+
 
 
