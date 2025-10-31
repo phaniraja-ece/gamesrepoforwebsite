@@ -1,17 +1,16 @@
 ---
 layout: default
-title: Testing Homepage
+title: Games for phaniraja-ece.github.io
 ---
 
-# Testing Homepage
+# Gaming Homepage
 
-Bookmark this to keep an eye on my project updates!
 
-[View On GitHub](https://github.com/phaniraja-ece/phaniraja-ece.github.io){: .btn}
+[View On GitHub](https://github.com/phaniraja-ece/gamesrepoforwebsite){: .btn}
 
-## 🛠 Tools and 🎮 Games and 🧠 Code Editors and 💻 Scripts
+## 🎮 Games
 
-[Tools](/tools/){: .btn}
+
 [Games](/games/){: .btn}
-[Code Editors](/codeeditors/){: .btn}
-[Scripts](/Scripts?){: .btn}
+
+
